@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 carousels:
   - images: 
-    - image: /sliders/202405_geoForum.jpg
-      title: "青年地学论坛_2024"
+    - image: /sliders/202401_HNNU_Winter.jpg
+      title: "HNNU in Winter"
     - image: /sliders/202503_inClass.jpg
       title: "InClass"
     - image: /sliders/202408_63thERSA.jpg
