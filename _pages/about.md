@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 carousels:
   - images: 
-    - image: /sliders/202401_HNNU_Winter.jpg
+    - image: /images/sliders/202401_HNNU_Winter.jpg
       title: "HNNU in Winter"
     - image: /sliders/202503_inClass.jpg
       title: "InClass"
