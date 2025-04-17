@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "ZHOU KAICHUN（周楷淳）"
-description              : "副教授  硕士生导师 <br> 国土资源利用与管理 <br> MPA <br> 地理信息科学系<br> 湖南师范大学"
+title                    : "Hua Liao（廖华）"
+description              : "副教授  硕士生导师 <br> 地理学与地理信息系统<br> 湖南师范大学"
 repository               : 
 google_scholar_stats_use_cdn : false
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "ZHOU KAICHUN（周楷淳）"
+  name             : "Hua Liao（廖华）"
   avatar           : "images/zhoukaichun.jpg"
-  bio              : "zhoukaichun@hunnu.edu.cn"
+  bio              : "liaohua@hunnu.edu.cn"
   location         : "长沙, 湖南"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=dLBYkmkAAAAJ
   email            : 
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Hua-Liao-2
   uri              : 
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0000-0002-6304-329X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : https://weibo.com/u/1087795407
   xing             :
   youtube          :
   wikipedia        :
