@@ -10,16 +10,16 @@ carousels:
   - images: 
     - image: /images/sliders/202401_HNNU_Winter.jpg
       title: "HNNU in Winter"
-    - image: /sliders/202503_inClass.jpg
+    - image: /images/sliders/202306_Lushan.jpg
+      title: "在庐山"
+    - image: /images/sliders/202412_AsiaCarto.jpg
+      title: "AsiaCarto24"
+    - image: /images/sliders/202411_InClass.jpg
       title: "InClass"
-    - image: /sliders/202408_63thERSA.jpg
-      title: "63thERSA"
-    - image: /sliders/202409_spatialPlanning.jpg
-      title: "Working Hard"
-    - image: /sliders/202410_Daily.jpg
-      title: "Daily"
-    - image: /sliders/202401_Winter.jpg
-      title: "Winter"
+    - image: /images/sliders/202301_JingweiBuilding.jpg
+      title: "Jingwei Building"
+    - image: /images/sliders/201801_at ETH.jpg
+      title: "ETH"
 ---
 
 <style>
