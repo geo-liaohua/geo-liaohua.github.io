@@ -151,16 +151,6 @@ carousels:
 - *在读* 孟晋华 卢柏言 谭思思 周越 刘灿
 - *已毕业* 赵文迪 张昌博 
 
-# 📝 期刊论文 {#publication} 
-- Zhou K, Sun Z, Ma T, et al. [Spatiotemporal Heterogeneity and Zoning Strategies of Multifunctional Trade-Offs and Synergies in Cultivated Land in the Hexi Corridor[J]](https://www.mdpi.com/2073-445X/14/2/335). Land, 2025, 14(2): 335.
-- 孙字祥,胡涛,李超民,杨凤玲,周楷淳*.湘江流域农村居民点时空演变特征及影响因素研究[J].水土保持研究,2024,31(06):344-353.DOI:10.13869/j.cnki.rswc.2024.06.043.
-- 杨妍,于成,傅安洲,孙字祥,周楷淳*.城市三维形态空间分异格局对大气污染时空分布响应研究——以长沙市为例[J].湖南师范大学自然科学学报,2024,47(02):12-21.
-- Zhou K, Fu A, Xiao C, et al. [Understanding Idle Land Using Local Environmental Characteristics: A Case Study of Liuyang, China[J]](https://www.mdpi.com/2071-1050/15/8/6663). Sustainability, 2023, 15(8): 6663.
-- Li J, Xie B, Gao C, Zhou K, et al. [Impacts of natural and human factors on water-related ecosystem services in the Dongting Lake Basin[J](https://www.sciencedirect.com/science/article/abs/pii/S0959652622029833). Journal of Cleaner Production, 2022, 370: 133400.
-- Li J, Zhou K, Xie B, et al. [Impact of landscape pattern change on water-related ecosystem services: Comprehensive analysis based on heterogeneity perspective[J]](https://www.sciencedirect.com/science/article/pii/S1470160X21010372). Ecological Indicators, 2021, 133: 108372.
-- 李晓青,徐修桥,谢炳庚,刘茹,周楷淳*.喀斯特地区农村居民点对石漠化演变的影响[J].经济地理,2020,40(10):154-163.DOI:10.15957/j.cnki.jjdl.2020.10.018.
-- Zhou K, Hu C, Zhang H, et al. [Why do we hardly see people with visual impairments in the street? A case study of Changsha, China[J]](https://www.sciencedirect.com/science/article/pii/S0143622818311172). Applied geography, 2019, 110: 102043.
-
 # 🎖 指导获奖 {#awards} 
 - *2024.11* 刘更好, 边家欣, 邢华芬, 陈科仰. 第十三届全国大学生GIS应用技能大赛, 特等奖.
 - *2024.11* 边家欣, 陈科仰, 邢华芬, 刘更好, 周鑫. 湖南第七届大学生测绘综合技能大赛GIS应用赛, 一等奖. 
@@ -176,7 +166,15 @@ carousels:
 - *2019.08*, Goldschmidt2019, 西班牙巴塞罗那. （学习×2）. 
 - *2018.09*, 第八届亚洲区域科学会议, 韩国济州. （主要是学习） 
 
-
+# 📝 期刊论文 {#publication} 
+- Zhou K, Sun Z, Ma T, et al. [Spatiotemporal Heterogeneity and Zoning Strategies of Multifunctional Trade-Offs and Synergies in Cultivated Land in the Hexi Corridor[J]](https://www.mdpi.com/2073-445X/14/2/335). Land, 2025, 14(2): 335.
+- 孙字祥,胡涛,李超民,杨凤玲,<b>周楷淳*</b>.湘江流域农村居民点时空演变特征及影响因素研究[J].水土保持研究,2024,31(06):344-353.DOI:10.13869/j.cnki.rswc.2024.06.043.
+- 杨妍,于成,傅安洲,孙字祥,周楷淳*.城市三维形态空间分异格局对大气污染时空分布响应研究——以长沙市为例[J].湖南师范大学自然科学学报,2024,47(02):12-21.
+- Zhou K, Fu A, Xiao C, et al. [Understanding Idle Land Using Local Environmental Characteristics: A Case Study of Liuyang, China[J]](https://www.mdpi.com/2071-1050/15/8/6663). Sustainability, 2023, 15(8): 6663.
+- Li J, Xie B, Gao C, Zhou K, et al. [Impacts of natural and human factors on water-related ecosystem services in the Dongting Lake Basin[J](https://www.sciencedirect.com/science/article/abs/pii/S0959652622029833). Journal of Cleaner Production, 2022, 370: 133400.
+- Li J, Zhou K, Xie B, et al. [Impact of landscape pattern change on water-related ecosystem services: Comprehensive analysis based on heterogeneity perspective[J]](https://www.sciencedirect.com/science/article/pii/S1470160X21010372). Ecological Indicators, 2021, 133: 108372.
+- 李晓青,徐修桥,谢炳庚,刘茹,周楷淳*.喀斯特地区农村居民点对石漠化演变的影响[J].经济地理,2020,40(10):154-163.DOI:10.15957/j.cnki.jjdl.2020.10.018.
+- Zhou K, Hu C, Zhang H, et al. [Why do we hardly see people with visual impairments in the street? A case study of Changsha, China[J]](https://www.sciencedirect.com/science/article/pii/S0143622818311172). Applied geography, 2019, 110: 102043.
 
 <script defer src="https://cn.vercount.one/js"></script>
 <script>
