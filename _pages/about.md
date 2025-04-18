@@ -148,23 +148,22 @@ carousels:
 - *2010 - 2024*, 国家科技支撑项目，周边地缘环境信息建模与安全评估关键技术研究，结题，参与
 
 # 👨🏻‍🎓 研究生 {#postgraduate}
-- *在读* 孟晋华 卢柏言 谭思思 周越 刘灿
-- *已毕业* 赵文迪 张昌博 
+- *在 读:* 孟晋华 卢柏言 谭思思 周越 刘灿
+- *已毕业:* 赵文迪 张昌博 
 
 # 🎖 指导获奖 {#awards} 
-- *2024.11* 刘更好, 边家欣, 邢华芬, 陈科仰. 第十三届全国大学生GIS应用技能大赛, 特等奖.
-- *2024.11* 边家欣, 陈科仰, 邢华芬, 刘更好, 周鑫. 湖南第七届大学生测绘综合技能大赛GIS应用赛, 一等奖. 
-- *2024.09* 吴名. 2024年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 二等奖.  
-- *2023.09* 李昌哲. 2023年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 一等奖. 
-- *2022.07* 孙铭悦, 陈铭臻. 2022年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 二等奖. 
-- *2020.11* 疫苗下的“傲慢与偏见”, 2020易智瑞杯中国大学生GIS软件开发竞赛·地图故事组, 优胜奖.
-- *2019.03* 刘茹, 易嘉慧, 杨敏, 欧阳睿, 胡成凤. 湖南省村级土地利用规划编制软件, 大学生创新训练项目（省级）, 已结题. 
+- *2024.11* 第十三届全国大学生GIS应用技能大赛, 特等奖:刘更好, 边家欣, 邢华芬, 陈科仰
+- *2024.11*  湖南第七届大学生测绘综合技能大赛（GIS应用赛项）, 一等奖:边家欣, 陈科仰, 邢华芬, 刘更好
+- *2023.12* 第十二届全国大学生GIS应用技能大赛，特等奖：刘灿、潘岩、张家树、满宇  
+- *2023.12* 第六届湖南省大学生测绘综合技能大赛（GIS应用赛项），一等奖：刘灿、张家树、郭秋瑞、王旭升、曾鑫；二等奖：魏伊琳；三等奖：时欣瑜
+- *2023.02* 湖南师范大学“优秀研究生”：赵文迪、张昌博 
+- *2023.02* 硕士研究生国家奖学金：赵文迪
+- *2022.12* 第十一届全国大学生GIS应用技能大赛，特等奖：郭昕蔚、孙铭悦、徐峥、李嘉奇
+- *2022.11* 第五届湖南省大学生测绘综合技能大赛（GIS应用赛项），一等奖：刘桂汝、赵彤阳、郭昕蔚、胡增琳
+- *2021.06* 国家级大学生创新创业训练计划项目，COVID-19对气象因子的时空响应，陈海童，郭昕蔚，彭载钰，谭思思，叶华勇
 
 # 💬 学术交流 {#talks} 
-- *2024.08*, 第六十三届欧洲区域科学协会年会, How Does the COVID-19 Pandemic Affect Employment Outcomes Differently for College Graduates with Diverse Characteristics (oral), 葡萄牙特尔塞拉. （交流学习）. 
-- *2023.10*, 第十五届中日韩地理学联合年会, Impact of Clan Culture on the Spatial Heterogeneity of Betrothal Gifts in China (oral), 韩国首尔. （交流学习）. 
-- *2019.08*, Goldschmidt2019, 西班牙巴塞罗那. （学习×2）. 
-- *2018.09*, 第八届亚洲区域科学会议, 韩国济州. （主要是学习） 
+- 
 
 # 📝 期刊论文 {#publication} 
 - [30] <b>廖华\*</b>, 孟晋华, 赵文迪, 董卫华. (2025). 真实环境下行人导航认知负担度量的瞳孔指标适用性检验, 测绘科学, 50(2):57-66. (in press)
@@ -198,6 +197,12 @@ carousels:
 - [2] 董卫华, <b>廖华\*</b>, 詹智成, 刘兵, 王圣凯 & 杨天宇 (2019). 2008年以来地图学眼动与视觉认知研究新进展. 地理学报, 74(3), 599-614. doi: [https://doi.org/10.11821/dlxb201903015](https://doi.org/10.11821/dlxb201903015).
 - [1] 周秋文, 杨胜天, <b>廖华</b>, 马龙生, 韦小茶 & 颜红 (2016). 地缘环境单元划分方法及实例研究. 世界地理研究, 25(4), 58-66. Doi: [https://doi.org/10.3969/j.issn.1004-9479.2016.04.007](https://doi.org/10.3969/j.issn.1004-9479.2016.04.007).
 
+# 📝 会议论文 {#conference_paper} 
+- [5] Griffin, A. L., Reichenbacher, T., <b>Liao, H.</b>, Wang, W., & Cao, Y. (2023). Cognitive issues of mobile map design and use: A collaborative research agenda. *Abstracts of the 31st International Cartographic Conference (ICC 2023)*, Cape Town, South Africa. [PDF](https://ica-abs.copernicus.org/articles/6/79/2023/ica-abs-6-79-2023.pdf)
+- [4] <b>Liao, H.</b> & Dong, W., (2019). Challenges of Using Eye Tracking to Evaluate Usability of Mobile Maps in Real Environments. *ICA Workshop on User Experience Design for Mobile Cartography: Setting the Agenda*, July 11 & 12, 2019, Beijing, China. [PDF](https://use.icaci.org/wp-content/uploads/2018/11/LiaoDong.pdf)
+- [3] <b>Liao, H.</b>, Dong, W., Gartner, G. & Liu, H., (2018). Identifying user tasks in map based-pedestrian navigation from eye tracking data. In: P. Kiefer, Huang, H., Van de Weghe, N. & Raubal, M. eds. *Adjunct Proceedings of the 14th International Conference on Location Based Services*, 14-17 Jan 2018 Zurich, Switzerland 141-146. doi: [https://doi.org/10.3929/ethz-b-000225606](https://doi.org/10.3929/ethz-b-000225606).
+- [2] Dong, W., & <b>Liao, H.</b> (2016). Eye tracking to explore the impacts of photorealistic 3d representations in pedstrian navigation performance. *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 41, 641-645. [PDF](https://isprs-archives.copernicus.org/articles/XLI-B2/641/2016/)
+- [1] <b>廖华</b>, 贾颖芳, 董卫华, 王雪元, 李贤恩, & 蓝建航. (2014). 基于眼动跟踪的用户地图视觉搜索行为分析, 中国地理信息科学2014学术年会论文集, 徐州. [PDF](https://d.wanfangdata.com.cn/conference/ChZDb25mZXJlbmNlTmV3UzIwMjMwOTAxEgc4ODY5NjE4Ggg4Nmg5dG00bw==)
 
 
 <script defer src="https://cn.vercount.one/js"></script>
