@@ -71,10 +71,7 @@ carousels:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🏫 简介 {#Intro}
-中南大学本科、研究生最佳守门员、武汉大学研究生最佳守门员，湖南师范大学没有教工足球队。湖南师大工会羽毛球、乒乓球、篮球等比赛一轮游选手。Journal of Environment Management、Environmental and Sustainability Indicators、Applied Geography、PLOS ONE等一系列期刊审稿人。中国自然资源学会资源工程专业委员会委员、湖南省自然资源学会理事、湖南师范大学自然科学学报青年编委。科研经费充足。
-
-
-
+廖华，博士，副教授，硕士研究生导师，湖南师范大学“世承人才计划”青年优秀人才，国际地图制图协会(ICA)地理信息可视化认知专业委员会(CogVis)共同主席(Co-Chair)，湖南省测绘地理信息学会交通水利电力测绘地理信息技术专业委员会委员。主要研究方向为地理空间认知、空间导航视觉认知、智能地理信息人机交互。近年来在 IJGIS、CEUS、CaGIS、地理学报等期刊发表学术论文30余篇。主持国家自然科学基金、湖南省自然科学基金项目等多项课题，曾获地理信息科技进步奖一等奖(5/5)、湖南师范大学第24届青年教师课堂教学竞赛二等奖、第十一届、十二届、十三届全国大学生GIS应用技能大赛“优秀指导老师”等多项荣誉。
 
 <!-- 
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
@@ -173,7 +170,7 @@ carousels:
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?b6170bbfcc07f16ceee0aaac69f3c970";
+  hm.src = "https://hm.baidu.com/hm.js?6f4a6579643562aeebf8bcf02017b627";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
